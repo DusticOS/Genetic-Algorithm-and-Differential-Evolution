@@ -1,0 +1,13 @@
+cr:.9
+ns:50
+dim:10
+boundsL:-512
+boundsU:512
+maxItr:100
+mrt:.3
+mrg:.65
+mpr:.0001
+er:.05
+f:.6
+strat:9
+evalID:0
